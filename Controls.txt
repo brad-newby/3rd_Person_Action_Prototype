@@ -1,0 +1,11 @@
+Left Stick - Move
+Right Stick - Camera
+X - Attack
+Y - Heavy Attack
+A - Pick Up Item
+B - N/A
+RB - Change Target 
+RT - Load Item
+LB - Lock On
+LT - Unload Item
+Dpad - Select item
