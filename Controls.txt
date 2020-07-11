@@ -1,11 +1,13 @@
 Left Stick - Move
 Right Stick - Camera
 X - Attack
-Y - Heavy Attack
+Y - Heavy Attack - Requires Charge, Must be used after X
 A - Pick Up Item
-B - N/A
+B - Sprint
 RB - Change Target 
 RT - Load Item
-LB - Lock On
+LB - Lock On/Unlock
 LT - Unload Item
 Dpad - Select item
+Select - Spawn more enemies
+Start - Quit game
